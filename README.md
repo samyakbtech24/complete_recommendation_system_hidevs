@@ -29,6 +29,12 @@ This project implements a complete recommendation system containing a hybrid rec
 * `requirements.txt`: Python package dependencies.
 * `evaluation_report.md`: Summary of evaluation metrics.
 
+## Project working screenshots
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/25b25216-8a69-457d-b5eb-ba7a412aa462" />
+---
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ec4a8d59-6ffd-4307-99a1-6ac2bef08240" />
+
+
 ## Installation and Setup
 
 ### 1. Install Dependencies
