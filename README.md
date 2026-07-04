@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Initialize and Seed the Database
-Generate the SQLite database structure and populate it with sample users, contents, skills, and interactions:
+Generate SQLite database structure and populate it with sample users, contents, skills, and interactions:
 ```bash
 python scripts/seed_data.py
 ```
